@@ -3,7 +3,7 @@ These are some quite silly and quirky zip files which are sometimes marked as ma
 
 ZBLG.zip - 218TB - [here](/zblg.zip)
 
-ZBXL.zip - 4.8PB - incompatible sometimes - not here
+ZBXL.zip - 4.8PB - incompatible sometimes - [here](https://www.bamsoftware.com/hacks/zipbomb/zbxl.zip)
 
 42.zip - not here yet - pwd is 42
 
